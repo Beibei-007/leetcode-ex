@@ -12,3 +12,4 @@ Doing some GIT exercise.
 Creating a new branch is quick & simple.
 
 dev1: merge with fast-forword
+dev2: merge with no-ff
