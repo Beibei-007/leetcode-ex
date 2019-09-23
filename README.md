@@ -10,3 +10,5 @@ Doing some GIT exercise.
 
 # 2019-09-23
 Creating a new branch is quick & simple.
+
+dev1: merge with fast-forword
