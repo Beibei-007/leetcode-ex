@@ -7,3 +7,6 @@ Will this affect the .git ?
 
 # 2019-09-20
 Doing some GIT exercise.
+
+#
+Creating a new branch is quick & simple.
