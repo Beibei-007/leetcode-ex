@@ -1,5 +1,6 @@
 # leetcode-ex
 First repository was made under exercise
+Git is a free software
 
 # Move to another place
 Move the repository under workspace by "move".
