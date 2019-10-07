@@ -1,1 +1,6 @@
 This is a file under developing in dev.
+#2019-10-07
+Today, I colned the origin to clone2. 
+I will add one line from a new dev local branch and try 
+--set-upstream-to.
+
