@@ -1,4 +1,14 @@
 This is a file under developing in dev.
+
 #2019-10-18
 Hi, I add one-line from leetcode-ex.
 I am a developer working on this file.
+=======
+#2019-10-07
+Today, I colned the origin to clone2. 
+I will add one line from a new dev local branch and try 
+--set-upstream-to.
+
+=======
+#2019-09-25
+Now someone change it from leetcode-clone.
